@@ -2,7 +2,7 @@
 Flash Chat is a native iOS App that was build using a service called Firebase Firestore as a backend database to store and retrieve messages from the cloud. 
 
 What i have learnt from this project: 
-1. integrate third party libraries in your app using Cocoapods and Swift Package Manager. 
+1. integrate third party libraries in app using Cocoapods and Swift Package Manager. 
 2. store data in the cloud using Firebase Firestore. 
 3. query and sort the Firebase database. 
 4. use Firebase for user authentication, registration and login. 
